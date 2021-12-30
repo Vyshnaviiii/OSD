@@ -38,7 +38,7 @@ SCREENSHOTS:
 
 <img src="screenshot-1.jpeg" alt="screenshot" style="max-width: 100%;">
 
-execution video:
+
 
 <video src="https://github.com/Vyshnaviiii/OSD/blob/main/oosd execution.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
   </video>
