@@ -23,7 +23,7 @@ npm i
 the above command install all the packages.
 once all the packages are installed successfully we need to start the server
 
-ng serve
+ng server
 
 the above command start the angular server in port number 4200
 
@@ -34,6 +34,7 @@ localhost:4200
 then our clien page will opens
 
 SCREENSHOTS:
+
 <img src="screenshot-0.jpeg" alt="screenshot" style="max-width: 100%;">
 
 <img src="screenshot-1.jpeg" alt="screenshot" style="max-width: 100%;">
