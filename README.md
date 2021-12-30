@@ -31,7 +31,7 @@ now open the browser and type
 
 localhost:4200
 
-then our clien page will opens
+then our client page will opens
 
 SCREENSHOTS:
 
